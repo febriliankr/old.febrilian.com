@@ -10,7 +10,7 @@ Gua jadi inget salah satu teman gua di FK, sebut saja namanya Olivine, dia baca 
 
 *"A journey of a thousand miles begins with one step" — Laozi, (even though the quote is often wrongly attributed to Confucius)*
 
-Sorry kalo gua pake orang lain sebagai contoh, sebenernya gua juga sempet aktif dalam kegiatan *mental mastrubation* pake buku juga. That is until I figured out kalo baca buku is not half of the fight. Reading is not even one step, that's pre-one step. The real one step is when you actually start doing it — day one — first attempt. The real one step is when you do it and start to realize the thing might not be for you, and you are in the verge of giving up — that's the real one step. So even though I read in average around 2 books per week, I figured out: it's not the amount of books that you go through, it is the amount of books that **go through you***.* Lagipula dari 11 buku yang gua baca, cuma ada 2 buku doang yang *highly impactful* buat gua. Sisanya ada yang *moderately impactful*, dan ada satu yang ga gua suka. Yang *highly impactful* ini biasanya ketika dia punya cerita hidup yang bisa gua relate, dan dia punya solusi yang mungkin bisa menyelamatkan gua. Buku-buku *highly impactful* tersebut itu ga selalu lo temuin di *recommended shelf* di Books and Beyond atau Amazon. Kadang lo harus nyari bener-bener di Goodreads atau Reddit untuk bener-bener nemu buku yang sesuai sama masalah yang lagi lo hadapin sekarang.
+Sorry kalo gua pake orang lain sebagai contoh, sebenernya gua juga sempet aktif dalam kegiatan *mental mastrubation* pake buku juga. That is until I figured out kalo baca buku is not half of the fight. Reading is not even one step, that's pre-one step. The real one step is when you actually start doing it — day one — first attempt. The real one step is when you do it and start to realize the thing might not be for you, and you are in the verge of giving up — that's the real one step. So even though I read in average around 2 books per week, I figured out: it's not the amount of books that you go through, it is the amount of books that **go through you.** Lagipula dari 11 buku yang gua baca, cuma ada 2 buku doang yang *highly impactful* buat gua. Sisanya ada yang *moderately impactful*, dan ada satu yang ga gua suka. Yang *highly impactful* ini biasanya ketika dia punya cerita hidup yang bisa gua relate, dan dia punya solusi yang mungkin bisa menyelamatkan gua. Buku-buku *highly impactful* tersebut itu ga selalu lo temuin di *recommended shelf* di Books and Beyond atau Amazon. Kadang lo harus nyari bener-bener di Goodreads atau Reddit untuk bener-bener nemu buku yang sesuai sama masalah yang lagi lo hadapin sekarang.
 
 Beberapa buku juga punya *low impact* di hidup gua. Kadang halfway through gua ngerasa agak nyesel bacanya. Beberapa buku itu emang bagus banget bukunya, I was fascinated by the wonders revealed by the book, but it's hard to apply anything I learned from that book to my life. It's safe to say that the book is just not for me, atau mungkin suatu hari nanti gua baru bisa menggunakan pengetahuan yang gua dapet dari buku, for example: pickin up girls by sounding smart thanks to the books that I read, just kidding. Contoh bukunya yang sifatnya kaya gitu adalah Life 3.0 (Max Tegmark), Superintelligence (Nick Bostrom), The Grand Design (Stephen Hawking), dan The God Delusion (Richard Dawkins). Great books and awesome scientific insight, but I can't see myself applying my new knowledge of quantum physics, how electron moves in time-space, and the ethics of General Artificial Intelligence (GAI). Mungkin kalo gua physicist atau AI scientist baru gua ngerasa itu impactful banget.
 
@@ -18,7 +18,7 @@ So let's jump right into the books.
 
 ## Little Prince by Antoine de Saint-Exupéry
 
-Gua tau buku ini dari temen gua—a bookworm, coder girl, a junior in medschool. Awalnya gua kira ini buku bocah yang membosankan gitu. I was totally wrong, tapi iyasih memang buku bocah. Buku ini cerita tentang *Le Petit Prince* yang naif banget dan gatau apa-apa tentang kekuasaan, bisnis, *getting drunk*, geografi, kerja, dan banyak hal lagi yang terjadi sehari-hari di dunia kita. Dia bingung banget kenapa orang-orang mau ngelakuin hal tersebut. Meskipun dia naif dan gatau apa-apa, *but he **asked the right questions**.* Gua belajar banyak tentang *asking the right questions* instead of trying to do right things.
+Gua tau buku ini dari temen gua—a bookworm, coder girl, a junior in medschool. Awalnya gua kira ini buku bocah yang membosankan gitu. I was totally wrong, tapi iyasih memang buku bocah. Buku ini cerita tentang *Le Petit Prince* yang naif banget dan gatau apa-apa tentang kekuasaan, bisnis, *getting drunk*, geografi, kerja, dan banyak hal lagi yang terjadi sehari-hari di dunia kita. Dia bingung banget kenapa orang-orang mau ngelakuin hal tersebut. Meskipun dia naif dan gatau apa-apa, **but he asked the right questions**.* Gua belajar banyak tentang *asking the right questions* instead of trying to do right things.
 
 ## Black Swan by Nassim Nicholas Taleb
 
@@ -30,11 +30,15 @@ Untuk yang masih waras sampai bulan September ini, pasti ngerti lahya definisi "
 
 *"Banyak yang membuat prediksi perjalanan wabah di Indonesia. Terus terang prediksi labnya agak sulit sekarang karena penyebabnya multifaktorial," sebut Direktur Lembaga Biologi Molekuler (LBM) Eijkman, Prof Amin Soebandrio. Sumber: Detik.com, Sabtu (28/3/2020).*
 
-He's an expert, he admitted that he can't know for sure, and he's right! No arrogant mathematical simulation. Dan hal kaya beginian itu terjadi berulang-ulang sepanjang sejarah. Prediksi apapun gaakan se akurat itu, dan bahkan bisa jauh banget melenceng dari perkiraan awal. Hal ini karena kita gapernah mempertimbangkan ***Black Swan,*** an unpredictable or unforeseen event, typically one with extreme consequences.* Reading this book made me realize such an important thing: we don't know shit, so don't act like it. I can go on ngejelasin semua hal yang keren dari buku ini, tapi that will turn this blog post into a wall of text, and no one likes wall of text. Or do you?
+He's an expert, he admitted that he can't know for sure, and he's right! No arrogant mathematical simulation. Dan hal kaya beginian itu terjadi berulang-ulang sepanjang sejarah. Prediksi apapun gaakan se akurat itu, dan bahkan bisa jauh banget melenceng dari perkiraan awal. Hal ini karena kita gapernah mempertimbangkan ***Black Swan,*** an unpredictable or unforeseen event, typically one with extreme consequences. Reading this book made me realize such an important thing: we don't know shit, so don't act like it. I can go on ngejelasin semua hal yang keren dari buku ini, tapi that will turn this blog post into a wall of text, and no one likes wall of text. Or do you?
+
+![Black Swan](./black-swan.jpg)
 
 ## Way of The Wolf by Jordan Belfort
 
 Buat yang pernah nonton The Wolf of Wall Street, pasti tau Jordan Belfort. Katanya dia adalah the living legend of the sales world. Some said that he can sell milk to a milkman! Dalam buku ini gua belajar banyak tentang cara dia komunikasi dalam konteks sales pitch sih. Satu hal yang paling penting yang gua dapetin adalah kita gabisa ngejual sesuatu ke orang yang ga lagi *on the market*. The whole point of this book is to turn leads into potential clients, and potential clients to buyers. Not turning *people with no interest* into *buyers*. No rocket science, no scammy techniques, just pure beneficial principles to communicate your product to solve people's pain. 
+
+![Way of The Wolf by Jordan Belfort](./jordan-belfort.jpg)
 
 ## The Great Gatsby by F. Scott Fitzgerald
 
@@ -56,12 +60,9 @@ Tanggal 3 Agustus gua nulis ini di jurnal gua:
 
 *Sejauh ini gue udah baca:*
 
-- *Little Prince (1 Aug)*
-- *Black Swan (2 Aug)*
-- *The Great Gatsby (2 Aug)*
-- *The Way of The Wolf (2 Aug)*
-- *Animal Farm (3 Aug)*
-- *The Obstacle is the Way (3 Aug)*
+*Little Prince (1 Aug)*, *Black Swan (2 Aug)*, *The Great Gatsby (2 Aug)*, *The Way of The Wolf (2 Aug)*,*Animal Farm (3 Aug)*, *The Obstacle is the Way (3 Aug)*.
+
+Kasian banget ya pake mual segala. That's what happened when I tried to read 5 books in 3 days.
 
 ## Life 3.0 by Max Tegmark
 

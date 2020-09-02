@@ -10,4 +10,4 @@ I don't even need to open up the browser, all I need to do is write on my Notion
 
 Looking further to fill this up with my writings.
 
-![Black Swan](./gatsby.jpg)
+![Gatsby](./gatsby.jpg)
