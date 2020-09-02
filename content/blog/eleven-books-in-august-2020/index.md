@@ -1,7 +1,7 @@
 ---
-title: "There's Such Thing as Reading Too Much: Eleven Books I read this month"
+title: "There's Such Thing as Reading Too Much: Eleven Books I read this month 🦾"
 date: "2020-09-02T10:12:03.284Z"
-description: "Challenged myself to read 20 books. It was too much, but I learned a lot of valuable lessons along the way."
+description: "Challenged myself to read 20 books. It was too much, but I learned a lot of valuable lessons along the way. 🧑‍💻"
 ---
 
 *When a measure becomes a target, it ceases to be a good measure — Goodhart's Law*. Sepertinya gua **kebanyakan** baca buku deh. Don't get me wrong, books are ***awesome***, tapi bulan Agustus lalu sepertinya gua baca buku untuk alasan yang salah. Apakah baca buku banyak == better quality of life? That's not what happened to me. In fact, baca buku malah jadi semacam *mental mastrubation* untuk gua. Ketika gua baca, gua ngerasa oke, berasa semakin pinter, berasa *already figured things out*. Padahal the knowledge and ideas in the books that I read are worthless if I'm not applying that to my life. 
