@@ -68,7 +68,7 @@ Kasian banget ya pake mual segala. That's what happened when I tried to read 5 b
 
 ## Life 3.0 by Max Tegmark 🤖
 
-Prologuenya keren banget — hollywood movie script caliber. Bukunya lumayan technical, tapi Max Tegmark bisa ngejelasin General Atrificial Intelligence ke noob seperti saya. Yang gua males adalah dia banyak banget ngejelasin tentang *AI* *ethics*. Not saying that I don't care about ethics
+Prologuenya keren banget — hollywood movie script caliber. Bukunya lumayan technical, tapi Max Tegmark bisa ngejelasin General Atrificial Intelligence ke noob seperti saya. Yang gua males adalah dia banyak banget ngejelasin tentang *AI* *ethics*. Not saying that I don't care about ethics, tapi ya ga seru aja topiknya. This book will be a great introduction untuk kalian yang belom pernah baca apapun tentang AI, a great catching up book I suppose. Karna development AI ini sebenernya udah lama banget, sejak zaman Perang Dunia, dimana pioneernya adalah Alan Turing dan Irving J Good dengan Enigma Machine Mereka.
 
 ## The Ride of A Lifetime by Robert Iger 🏰
 
