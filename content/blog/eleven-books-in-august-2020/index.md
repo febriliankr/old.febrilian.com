@@ -1,5 +1,5 @@
 ---
-title: "Eleven Books I read this month"
+title: "There's Such Thing as Reading Too Much: Eleven Books I read this month"
 date: "2020-09-02T10:12:03.284Z"
 description: "Challenged myself to read 20 books. It was too much, but I learned a lot of valuable lessons along the way."
 ---
