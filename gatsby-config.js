@@ -5,8 +5,8 @@ module.exports = {
       name: `Febrilian Kristiawan`,
       summary: `, a medical student/developer, building wonderful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Network of idea nodes, curated into writings.`,
+    siteUrl: `https://febrilian.com/`,
     social: {
       twitter: `febrilian__`,
     },
