@@ -3,7 +3,7 @@ module.exports = {
     title: `🦢 Writings`,
     author: {
       name: `Febrilian Kristiawan`,
-      summary: `, a medical student/developer, building wonderful things.`,
+      summary: `, a medical student/developer, building things.`,
     },
     description: `Network of idea nodes, curated into writings.`,
     siteUrl: `https://febrilian.com/`,
