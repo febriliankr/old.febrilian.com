@@ -1,4 +1,10 @@
 a {
-    color: #5e3aff;
+    /* color: #5e3aff; */
+    color: #7f6df2;
     text-decoration: none;
+}
+
+body {
+	background-color: #181818;
+	color: #dcddde;
 }
