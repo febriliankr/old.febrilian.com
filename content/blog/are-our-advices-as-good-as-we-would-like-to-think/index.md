@@ -6,7 +6,7 @@ description: "Sometimes I give advice to people, but were these really good advi
 
 ![Taxi Driver receiving a bad advice](./taxi-driver-receiving-bad-advice.jpg)
 
-Sometimes I'd like to think that my advice is good. I have given advice to other people several times. Sometimes they needed the advice, sometimes they didn't even want it. Giving advice feels good, and I can feel that those advices are what they actually need in order to effectively solve their problems. But were these advices are really good advices? Or is it just my brain tricking me into thinking that I already got everything figured out? None of the two statements can be true. In fact, the latter, I believe, is the one that's most likely true.
+Sometimes I'd like to think that my advice is good. I have given advice to other people multiple times in my life, whether they actually desperate for an advice or not. Giving advice feels good, and sometimes I can feel that the advices that I gave are what they actually need in order to effectively solve their problems. But were these advices are really good advices? Or is it just my brain tricking me into thinking that I already got everything figured out? None of the two statements can be true. In fact, the latter, I believe, is the one that's most likely true.
 
 If I feel that my advices are really good, then why, in my life, I haven't accomplished anything meaningful? I can also find a lot of people giving advices without having any reputation of effectively achieved or overcame big problems and situations in their life. I believe I probably am one of these people.
 
