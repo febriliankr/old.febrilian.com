@@ -47,7 +47,7 @@ const SEO = ({ description, lang, meta, title }) => {
         },
         {
           property: `og:image`,
-          content: `/profile-pic.jpg`
+          content: 'http://febrilian.com/static/717029120c703137992f372fdfcc1b74/7a8c4/ideanodes.jpg'
         },
         {
           property: `og:description`,
@@ -56,10 +56,6 @@ const SEO = ({ description, lang, meta, title }) => {
         {
           property: `og:type`,
           content: `website`,
-        },
-        {
-          property: `og:image`,
-          content: `/profile-pic.jpg`,
         },
         {
           name: `twitter:card`,
