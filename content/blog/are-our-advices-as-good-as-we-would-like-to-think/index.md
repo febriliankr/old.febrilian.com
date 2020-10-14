@@ -1,5 +1,5 @@
 ---
-title: "Are Our Advices as Good as We'd Like to Think? 🗿"
+title: "Are Our Advices as Good as We Would Like to Think? 🗿"
 date: "2020-10-14T18:38:03.284Z"
 description: "Sometimes I give advice to people, but were these really good advices? Or is it just my brain tricking me into thinking that I got everything figured out?"
 ---
