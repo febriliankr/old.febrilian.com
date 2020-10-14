@@ -62,6 +62,10 @@ const SEO = ({ description, lang, meta, title }) => {
           content: `summary`,
         },
         {
+          property: `twitter:image`,
+          content: 'http://febrilian.com/static/717029120c703137992f372fdfcc1b74/7a8c4/ideanodes.jpg'
+        },
+        {
           name: `twitter:creator`,
           content: site.siteMetadata.social.twitter,
         },
