@@ -1,14 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+* {
+    font-family: "Inter", sans-serif !important;
+}
+
+p {
+  font-size: 18px;
+}
+
 a {
-    /* color: #5e3aff; */
-    color: #7f6df2;
-    text-decoration: none;
+  /* color: #5e3aff; */
+  color: #7e6bff;
+  text-decoration: none;
 }
 
 body {
-	background-color: #202020;
-	color: #dcddde;
+  background-color: #1d1c1f;
+  color: #dcddde;
 }
 
 em {
-    color: #afafaf;
+  color: #afafaf;
 }

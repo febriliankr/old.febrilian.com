@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react"
+import React from "react"
 import { Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
@@ -9,17 +9,6 @@ import { rhythm } from "../utils/typography"
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
   const posts = data.allMarkdownRemark.edges
-
-  const [darkMode, setDarkMode] = useState('MEW');
-
-  useEffect(() => {
-    console.log(darkMode);
-  }, [darkMode])
-
-  function handleClick(){
-    console.log("helo");
-    setDarkMode("hello!")
-  }
 
   return (
     <Layout location={location} title={siteTitle}>

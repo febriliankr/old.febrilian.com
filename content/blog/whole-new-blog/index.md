@@ -1,5 +1,5 @@
 ---
-title: A Whole New Blog 🦢
+title: "A Whole New Blog 🦢"
 date: "2020-09-01T14:12:03.284Z"
 description: "Let me introduce you to my new blog, developed using gatsby."
 ---

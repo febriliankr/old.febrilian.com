@@ -1,5 +1,5 @@
 ---
-title: Nine Books I Read This July 📚
+title: "Nine Books I Read This July 📚"
 date: "2020-08-01T23:46:37.121Z"
 ---
 
